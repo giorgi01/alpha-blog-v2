@@ -1,4 +1,4 @@
-$navbar-default-bg: black;
+$navbar-default-bg: #ffca5e;
 
 @import "bootstrap-sprockets";
 
@@ -143,5 +143,13 @@ padding-bottom: 15px;
   border-top: 1px solid #eaeaea;
 
   margin-top: 15px;
+
+}
+
+.listing {
+
+  list-style: none;
+
+  padding-left: 0;
 
 }
